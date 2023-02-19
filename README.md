@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -18,11 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## Built with
 
 - HTML
@@ -31,5 +25,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@Jack-Price](https://www.frontendmentor.io/profile/Jack-Price)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
